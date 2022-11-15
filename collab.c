@@ -21,6 +21,10 @@ void reed_ekidan2() {
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
 }
 
+void khumm4_xskin2(){
+  printf("Karim Hummos and Xavier Skinner\n");
+  printf("We learned how powerful git comamnds can be\n");
+}
 int main()
 {
     printf("This code has been created by the students of CS 211, Fall 2022!\n\n");
